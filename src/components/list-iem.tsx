@@ -14,7 +14,7 @@ export function ListItem(props: ListItemProps) {
       <div className="grid grid-cols-1 md:grid-cols-3 md:items-center">
         <div>{title}</div>
         <div>{subtitle}</div>
-        <div>
+        <div className='h-12 pt-5 md:h-auto md:pt-0'>
           <ButtonLink
             isFullWidth={false}
             href={props.url}
