@@ -1,0 +1,14 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-XiaoxiaoMultilingualNeural" language="en-US">
+        <s>Please note that the character っ known as Sokuon or "small tsu" can easily be confused with the regular つ (tsu) character.</s>
+        <s>つ (tsu)っ (small tsu)</s>
+        <s>The small tsu is not pronounced as "tsu". Instead, it is used to double the consonant sound inmediately following it:</s>
+        <s>RomajiHiraganaMeaningzasshiざ (za) っ (s) し (shi)Magazinekitteき (ki) っ (t) て (te)Stamptsukiつ (tsu) き (ki)Moonkeisatsuけ (ke) い (i) さ (sa) つ (tsu)Police</s>
+    </voice>
+</speak>

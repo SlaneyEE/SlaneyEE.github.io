@@ -1,0 +1,12 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-XiaoxiaoMultilingualNeural" language="en-US">
+        <s><lang xml:lang="en-US">Some of the Japanese characters can be combined with a diacritic mark known as</lang> <lang xml:lang="ja-JP">濁点</lang> <lang xml:lang="en-US">that looks like</lang> <lang xml:lang="en-US">two small strokes</lang>  <lang xml:lang="en-US">in the upper right corner of a character. Let's see how this works!</lang></s>
+        <s>The diacritic mark changes the pronunciation of the character. <lang xml:lang="en-US">In the example above, the character</lang> <break strength="weak" /><lang xml:lang="ja-JP">か</lang><break strength="x-weak" /> <lang xml:lang="en-US">is combined with the diacritic mark and becomes the character</lang> <break strength="weak" /><lang xml:lang="ja-JP">が</lang><break strength="x-weak" />.</s>
+    </voice>
+</speak>

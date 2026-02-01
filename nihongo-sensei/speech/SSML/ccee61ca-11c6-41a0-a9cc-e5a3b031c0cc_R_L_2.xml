@@ -1,0 +1,15 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>Today's lesson will be short and sweet. We will simply learn the following 6 Hiragana characters:</s>
+        <s><break strength="medium" /><lang xml:lang="ja-JP">な</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">に</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ぬ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ね</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">の</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ん</lang><break strength="medium" /></s>
+        <s>These new characters are a combination of a consonant sound "n"
+          and a vowel sound.  </s>
+        <s>Take your time to familiarize yourself with these characters and continue when you feel ready to take your next quiz.</s>
+    </voice>
+</speak>

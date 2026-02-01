@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-XiaoxiaoMultilingualNeural" language="en-US">
+        <s>Today we are going to take our first step into learning Katakana. We'll start with the first 5 Katakana characters.ア (a)イ (i)ウ (u)エ (e)オ (o)These characters represent the vowel sounds in Japanese.OK, that is more than enough theory for today!.. Get ready! The time has come for your first quiz!</s>
+    </voice>
+</speak>

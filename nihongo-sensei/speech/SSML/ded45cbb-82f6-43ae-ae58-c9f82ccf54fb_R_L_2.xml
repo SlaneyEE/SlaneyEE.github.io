@@ -1,0 +1,14 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>In Today's lesson we will learn the following 5 Hiragana characters:</s>
+        <s><break strength="medium" /><lang xml:lang="ja-JP">た</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ち</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">つ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">て</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">と</lang><break strength="medium" /></s>
+        <s>These new characters are a combination of a consonant sound "t"
+          and a vowel sound. Plese note the exception in some of the character above. </s>
+    </voice>
+</speak>
