@@ -1,0 +1,13 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s><lang xml:lang="en-US">Romaji is a system for writing Japanese using the Roman alphabet. For example, in Japanese,</lang> <break strength="medium" /><lang xml:lang="ja-JP">日本</lang><break strength="medium" /> (Japan) <lang xml:lang="en-US">can be written using Romaji as </lang><say-as interpret-as="characters">NIHON</say-as>.</s>
+        <s><break strength="strong" /></s>
+        <s>We can also use Hiragana to write the pronunciation of Japanese words. For example, the word "Japan" can be written using the character <break strength="medium" /><lang xml:lang="ja-JP">に</lang><break strength="medium" /> together with the character <break strength="medium" /><lang xml:lang="ja-JP">ほ</lang><break strength="medium" /> and the double n character <break strength="medium" /><lang xml:lang="ja-JP">んんんん</lang><break strength="medium" />.</s>
+    </voice>
+</speak>

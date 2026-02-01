@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-XiaoxiaoMultilingualNeural" language="en-US">
+        <s>Welcome to your very first Katakana lesson! Katakana is one of the three writing systems used in the Japanese language and is used to write words that don't have a japanese origin, names, and technical terms.</s>
+    </voice>
+</speak>

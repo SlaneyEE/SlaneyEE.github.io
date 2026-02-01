@@ -1,0 +1,14 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>OK, that is more than enough theory for today! These are the 5 Hiragana characters that we have learned today:</s>
+        <s><break strength="medium" /><lang xml:lang="ja-JP">が</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ぎ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ぐ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">げ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ご</lang><break strength="medium" /></s>
+        <s> </s>
+        <s>Take your time to familiarize yourself with these characters and continue when you feel ready to take your next quiz.</s>
+    </voice>
+</speak>

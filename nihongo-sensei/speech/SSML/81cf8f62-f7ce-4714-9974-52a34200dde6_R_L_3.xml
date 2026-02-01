@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>It is important to note that Kanji characters can have multiple pronunciations and meanings depending on the context in which they are used. For example:日 (sun) is pronounced as ひ (hi)日 (day) is pronounced as にち (nichi)今日 (today) is pronounced as きょう (kyou)三日 (the third day of the month) is pronounced as みっか (mikka)</s>
+    </voice>
+</speak>

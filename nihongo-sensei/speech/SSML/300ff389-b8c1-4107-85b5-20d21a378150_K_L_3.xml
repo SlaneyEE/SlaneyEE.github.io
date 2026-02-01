@@ -1,0 +1,15 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-XiaoxiaoMultilingualNeural" language="en-US">
+        <s>OK, that is more than enough theory for today! These are the 5 Hiragana characters that we have learned today:</s>
+        <s><break strength="medium" /><lang xml:lang="ja-JP">ば</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">び</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ぶ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">べ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">ぼ</lang><break strength="medium" /></s>
+        <s>These new characters are a combination of a consonant sound "b"
+          and a vowel sound.  </s>
+        <s>Take your time to familiarize yourself with these characters and continue when you feel ready to take your next quiz.</s>
+    </voice>
+</speak>

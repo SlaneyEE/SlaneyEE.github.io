@@ -1,0 +1,13 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s><lang xml:lang="ja-JP">こんにちは</lang>! <lang xml:lang="en-US">Welcome to</lang> <lang xml:lang="ja-JP">日本語先生</lang>!</s>
+        <s>The place where you can learn the beautiful Japanese language while having fun!</s>
+        <s>I will be your <lang xml:lang="ja-JP">先生</lang> and I am thrilled to have you here for our very first lesson. Let's dive right in!</s>
+    </voice>
+</speak>

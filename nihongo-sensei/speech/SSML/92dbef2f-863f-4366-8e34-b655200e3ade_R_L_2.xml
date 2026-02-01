@@ -1,0 +1,12 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s><lang xml:lang="en-US">The characters in this lesson are just like the characters from the previous lesson, but with a</lang> <lang xml:lang="ja-JP">濁点</lang> <lang xml:lang="en-US">added to them!</lang></s>
+        <s>While the previous characters were a combination of a consonant sound "<say-as interpret-as="characters">t</say-as>" and a vowel sound. The new characters are a combination of a consonant sound "<say-as interpret-as="characters">d</say-as>" and a vowel sound.</s>
+    </voice>
+</speak>

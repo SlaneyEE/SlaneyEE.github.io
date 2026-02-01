@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>Welcome to your very first Kanji lesson! This is just the beginning of your journey to mastering Kanji. Are you ready?This game will teach you 2136 Kanji characters considered essential for everyday use in Japan. This subset of Kanji is known as Jouyou Kanji, translated as 'daily use kanji'.</s>
+    </voice>
+</speak>

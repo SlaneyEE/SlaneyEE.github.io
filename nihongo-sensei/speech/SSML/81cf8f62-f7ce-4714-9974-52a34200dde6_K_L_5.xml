@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-XiaoxiaoMultilingualNeural" language="en-US">
+        <s>Today we are going to take our first step into learning Kanji. We'll start by learning some numbers.1一いち6六ろく2二に7七しち3三さん8八はち4四し9九きゅう5五ご10十じゅう100百ひゃく1000千せん10,000万まんOK, that is more than enough theory for today!.. It is time to get ready for your next quiz!</s>
+    </voice>
+</speak>

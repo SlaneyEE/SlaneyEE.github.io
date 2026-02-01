@@ -1,0 +1,15 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>Today we are going to take our first step into learning Hiragana. We'll start with the first 5 Hiragana characters.</s>
+        <s><break strength="medium" /><lang xml:lang="ja-JP">あ</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">い</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">う</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">え</lang><break strength="medium" /><break strength="medium" /><lang xml:lang="ja-JP">お</lang><break strength="medium" /></s>
+        <s><break strength="strong" /></s>
+        <s><lang xml:lang="en-US">These characters represent the vowel sounds in Japanese.</lang></s>
+        <s><lang xml:lang="en-US">Take your time to familiarize yourself with these characters and begin your first quiz when you feel ready.</lang></s>
+    </voice>
+</speak>

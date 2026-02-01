@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>Katakana is made up of 71 characters. Each character is are made up of consonant-vowel combinations. For example, the character カ (ka) is a combination of the consonant "k" and the vowel "a".∅kstnhmyrwaアカサタナハマヤラワiイキシチニヒミリuウクスツヌフムユルeエケセテネヘメレヱoオコソトノホモヨロヲ</s>
+    </voice>
+</speak>

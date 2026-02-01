@@ -1,0 +1,11 @@
+<speak
+  xmlns="http://www.w3.org/2001/10/synthesis"
+  xmlns:mstts="http://www.w3.org/2001/mstts"
+  xmlns:emo="http://www.w3.org/2009/10/emotionml"
+  version="1.0"
+  xml:lang="en-US"
+>
+    <voice name="zh-CN-YunyiMultilingualNeural" language="en-US">
+        <s>While learning Kanji, we can use a reading aid (known as Furigana) that displays the pronunciation of a word above or next to the Kanji characters.WordRomajiHiraganaKanjiFuriganaDoginuいぬ犬犬いぬIf for example, you learn the word Dog in Hiragana as いぬ (inu). With the help of Furigana 犬いぬ, you will be able to understand the Kanji 犬 with ease.</s>
+    </voice>
+</speak>
