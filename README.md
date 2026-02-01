@@ -2,6 +2,8 @@
 
 Website for Slaney EE — a tiny indie game development studio based in Ireland focused on developing free-to-play games using open source web technologies.
 
+## License
+
 COPYRIGHT 2026 SLANEY ELECTRONIC ENTERTAINMENT. ALL RIGHTS RESERVED.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
